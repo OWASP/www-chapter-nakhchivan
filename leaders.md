@@ -1,3 +1,3 @@
 ### Leaders
-* [Ilkin Javadov](mailto:ilkincavadovweb@gmail.com)
-* [Eyyub Panjiyev](mailto:eyyub.panjiyev@gmail.com)
+* [Ilkin Javadov](mailto:ilkin.javadov@owasp.org)
+* [Eyyub Panjiyev](mailto:eyyub.panjiyev@owasp.org)
