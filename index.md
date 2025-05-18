@@ -82,7 +82,7 @@ meetup-group:
 
 
 <section>
-  <h2>📲 Stay Connected</h2>
+  <h2> Stay Connected</h2>
   <ul>
     <li><a href="https://www.linkedin.com/company/owasp-nakhchivan">LinkedIn: OWASP Nakhchivan Chapter</a></li>
   </ul>
