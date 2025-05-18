@@ -9,7 +9,7 @@ meetup-group:
 
 ---
 <div style="text-align: center; margin-top: 20px;">
-  <img src="https://i.ibb.co/5gD8h9Xx/owasp-nakhchivan.png" alt="OWASP Nakhchivan Chapter" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/OWASP/www-chapter-nakhchivan/blob/main/assets/images/owasp%20nakhchivan.png" alt="OWASP Nakhchivan Chapter" style="max-width: 100%; height: auto;">
 </div>
 
 <!DOCTYPE html>
