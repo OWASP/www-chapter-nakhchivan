@@ -8,80 +8,136 @@ country: Azerbaijan
 meetup-group:
 
 ---
-
-<div style='color:red;'>
-
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://i.ibb.co/5gD8h9Xx/owasp-nakhchivan.png" alt="OWASP Nakhchivan Chapter" style="max-width: 100%; height: auto;">
 </div>
 
-## Welcome
-Include some information here about your chapter
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OWASP Nakhchivan Chapter</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0 20px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #002b36;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    section {
+      margin: 40px 0;
+    }
+    h1, h2, h3 {
+      color: #003049;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      margin: 40px 0 20px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
 
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+<header>
+  <h1>Welcome to OWASP Nakhchivan Chapter</h1>
+  <p>Raising awareness and promoting best practices in application security across the region</p>
+</header>
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+<section>
+  <h2>Chapter Leadership</h2>
+  <p>
+    Our chapter is led by a group of passionate cybersecurity experts and ethical hackers dedicated to advancing secure development practices.
+    One of the founding members, <strong>Ilkin Javadov</strong>, is a world-renowned white hat hacker who has worked with many government entities and has been awarded numerous medals of recognition and honours, as well as awards for finding vulnerabilities in many well-known companies.
+    He has also been a speaker at many prestigious cybersecurity conferences and is an active member of numerous cybersecurity organisations.
+    With Ilkin Javadov and other leaders, the Nakhchivan Chapter remains a centre for innovation, collaboration, and knowledge sharing in the field of application security.
+  </p>
+</section>
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+<section>
+  <h2>Our Mission</h2>
+  <p>
+    OWASP is a global, non-profit organization whose mission is to make software security visible and accessible to everyone.
+    At OWASP Nakhchivan, our goal is to enrich the local and regional cybersecurity community by organizing events, workshops, and collaborative initiatives focused on application security.
+    We aim to foster a culture of secure development, empower developers and professionals with cutting-edge knowledge, and contribute to building a more resilient digital ecosystem in Nakhchivan and beyond.
+  </p>
+</section>
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+<section>
+  <h2>Activities & Impact</h2>
+  <p>
+    Since its founding, OWASP Nakhchivan has played a pivotal role in elevating cybersecurity awareness in the region.
+    Through educational programs, technical seminars, and community-led events, we help developers, enterprises, and students adopt security-by-design approaches in their projects.
+    Our chapter’s influence extends across the South Caucasus and neighboring regions, establishing Nakhchivan as a growing center for cybersecurity excellence.
+  </p>
+</section>
 
-<!-- You should delete this comment
+<section>
+  <h2>📢 Call for Speakers</h2>
+  <p>
+    We are currently accepting speaker proposals!  
+    If you are interested in presenting at a future OWASP Nakhchivan event, please review the 
+    <a href="https://owasp.org/www-policy/legal/speaker-agreement" target="_blank">OWASP Speaker Agreement</a>
+    and send your proposed talk title, abstract, and short bio to our chapter leadership via email. ilkin.javadov@owasp.org
+  </p>
+  <p>We welcome talks on topics such as:</p>
+  <ul>
+    <li>Application Security</li>
+    <li>Secure Software Development</li>
+    <li>Threat Modeling</li>
+    <li>Offensive Security / Ethical Hacking</li>
+    <li>Cloud and API Security</li>
+    <li>AI in Security</li>
+  </ul>
+</section>
 
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+<section>
+  <h2>📅 Next Events</h2>
+  <p>
+    Information about upcoming OWASP Nakhchivan Chapter meetings and events will be shared soon.
+    Join us to connect, learn, and grow with the cybersecurity community.
+  </p>
+</section>
 
-{front matter for this file}
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+<section>
+  <h2>📲 Stay Connected</h2>
+  <ul>
+    <li><a href="https://www.linkedin.com/company/owasp-nakhchivan">LinkedIn: OWASP Nakhchivan Chapter</a></li>
+  </ul>
+</section>
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+<section>
+  <h2>📬 Join the Community</h2>
+  <ul>
+    <li><a href="https://owasp.org/membership/" target="_blank">Become an OWASP Member</a></li>
+    <li><a href="#">Subscribe to our Mailing List</a></li>
+    <li><a href="https://owasp.org/chapters/" target="_blank">Local Chapter Support Guidelines</a></li>
+    <li><a href="https://owasp.org/www-policy/operational/code-of-conduct" target="_blank">Code of Conduct</a></li>
+  </ul>
+</section>
 
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+<footer>
+  <p>© 2025 OWASP Nakhchivan Chapter. All rights reserved.</p>
+</footer>
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+</body>
+</html>
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
