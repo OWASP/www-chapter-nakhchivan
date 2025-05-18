@@ -74,7 +74,7 @@ meetup-group:
 </section>
 
 <section>
-  <h2>📅 Next Events</h2>
+  <h2>Next Events</h2>
   <p>
     Information about upcoming OWASP Nakhchivan Chapter meetings and events will be shared soon.
     Join us to connect, learn, and grow with the cybersecurity community.
