@@ -54,7 +54,7 @@ meetup-group:
 </section>
 
 <section>
-  <h2>📢 Call for Speakers</h2>
+  <h2> Call for Speakers</h2>
   <p>
     We are currently accepting speaker proposals!  
     If you are interested in presenting at a future OWASP Nakhchivan event, please review the 
@@ -89,7 +89,7 @@ meetup-group:
 </section>
 
 <section>
-  <h2>📬 Join the Community</h2>
+  <h2> Join the Community</h2>
   <ul>
     <li><a href="https://owasp.org/membership/" target="_blank">Become an OWASP Member</a></li>
     <li><a href="#">Subscribe to our Mailing List</a></li>
