@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Nakhchivan
-tags: example-tag
+tags: owaspazerbaijan
 region: Asia
 country: Azerbaijan
 meetup-group:
