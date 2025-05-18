@@ -18,41 +18,7 @@ meetup-group:
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>OWASP Nakhchivan Chapter</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    header {
-      background-color: #002b36;
-      color: white;
-      padding: 20px 0;
-      text-align: center;
-    }
-    section {
-      margin: 40px 0;
-    }
-    h1, h2, h3 {
-      color: #003049;
-    }
-    a {
-      color: #0077cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    footer {
-      text-align: center;
-      margin: 40px 0 20px;
-      font-size: 0.9em;
-      color: #666;
-    }
-  </style>
+  
 </head>
 <body>
 
