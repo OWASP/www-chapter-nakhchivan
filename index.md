@@ -29,7 +29,7 @@ meetup-group:
   <h2>Chapter Leadership</h2>
   <p>
     Our chapter is led by a group of passionate cybersecurity experts and ethical hackers dedicated to advancing secure development practices.
-    One of the founding members, <strong>Ilkin Javadov</strong>, is a world-renowned white hat hacker who has worked with many government entities and has been awarded numerous medals of recognition and honours, as well as awards for finding vulnerabilities in many well-known companies.
+    One of the founding members, <strong>Ilkin Javadov</strong>, is a world renowned white hat hacker who has worked with many government entities and has been awarded numerous medals of recognition and honours, as well as awards for finding vulnerabilities in many well known companies.
     He has also been a speaker at many prestigious cybersecurity conferences and is an active member of numerous cybersecurity organisations.
     With Ilkin Javadov and other leaders, the Nakhchivan Chapter remains a centre for innovation, collaboration, and knowledge sharing in the field of application security.
   </p>
@@ -38,9 +38,9 @@ meetup-group:
 <section>
   <h2>Our Mission</h2>
   <p>
-    OWASP is a global, non-profit organization whose mission is to make software security visible and accessible to everyone.
+    OWASP is a global, non profit organization whose mission is to make software security visible and accessible to everyone.
     At OWASP Nakhchivan, our goal is to enrich the local and regional cybersecurity community by organizing events, workshops, and collaborative initiatives focused on application security.
-    We aim to foster a culture of secure development, empower developers and professionals with cutting-edge knowledge, and contribute to building a more resilient digital ecosystem in Nakhchivan and beyond.
+    We aim to foster a culture of secure development, empower developers and professionals with cutting edge knowledge, and contribute to building a more resilient digital ecosystem in Nakhchivan and beyond.
   </p>
 </section>
 
@@ -48,7 +48,7 @@ meetup-group:
   <h2>Activities & Impact</h2>
   <p>
     Since its founding, OWASP Nakhchivan has played a pivotal role in elevating cybersecurity awareness in the region.
-    Through educational programs, technical seminars, and community-led events, we help developers, enterprises, and students adopt security-by-design approaches in their projects.
+    Through educational programs, technical seminars, and community led events, we help developers, enterprises, and students adopt security by design approaches in their projects.
     Our chapter’s influence extends across the South Caucasus and neighboring regions, establishing Nakhchivan as a growing center for cybersecurity excellence.
   </p>
 </section>
