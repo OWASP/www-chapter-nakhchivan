@@ -76,7 +76,7 @@ meetup-group:
   <h2>Next Events</h2>
 <p>
     📢 <strong>Next Event: OWASP Cybersecurity Meetup at Nakhchivan State University</strong><br><br>
-   <img src="assets/images/ndu-logo.jpg" alt="NDU Logo" style="height: 30px; vertical-align: middle; margin-left: 8px;">
+   <img src="assets/images/ndu-logo.jpg" alt="NDU Logo" style="height: 150px; vertical-align: middle; margin-left: 30px;">
     🗓️ <strong>Date:</strong> October 1, 2025<br>
     📍 <strong>Location:</strong> Nakhchivan State University (NDU) Campus<br>
     🎓 <strong>Audience:</strong> Open to all students of Nakhchivan State University<br><br>
