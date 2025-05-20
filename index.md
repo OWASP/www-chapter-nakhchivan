@@ -74,9 +74,14 @@ meetup-group:
 
 <section>
   <h2>Next Events</h2>
-  <p>
-    Information about upcoming OWASP Nakhchivan Chapter meetings and events will be shared soon.
-    Join us to connect, learn, and grow with the cybersecurity community.
+<p>
+    📢 <strong>Next Event: OWASP Cybersecurity Meetup at Nakhchivan State University</strong><br><br>
+    🗓️ <strong>Date:</strong> October 1, 2025<br>
+    📍 <strong>Location:</strong> Nakhchivan State University (NDU) Campus<br>
+    🎓 <strong>Audience:</strong> Open to all students of Nakhchivan State University<br><br>
+
+    Join us for a dynamic session on Application Security, Ethical Hacking, and Cybersecurity Trends!<br>
+    Participants will gain insights into global security standards, real-world vulnerabilities, and how to become part of the OWASP global community.
   </p>
 </section>
 
