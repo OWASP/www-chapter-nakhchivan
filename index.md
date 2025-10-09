@@ -31,6 +31,7 @@ meetup-group:
     Our chapter is led by a group of passionate cybersecurity experts and ethical hackers dedicated to advancing secure development practices.
     One of the founding members, <strong>Ilkin Javadov</strong>, is a world renowned white hat hacker who has worked with many government entities and has been awarded numerous medals of recognition and honours, as well as awards for finding vulnerabilities in many well known companies.
     He has also been a speaker at many prestigious cybersecurity conferences and is an active member of numerous cybersecurity organisations.
+    Since July 2023, he has been actively contributing to the OWASP community, helping promote secure coding practices and vulnerability awareness initiatives.
     With Ilkin Javadov and other leaders, the Nakhchivan Chapter remains a centre for innovation, collaboration, and knowledge sharing in the field of application security.
   </p>
 </section>
