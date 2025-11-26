@@ -105,7 +105,7 @@ meetup-group:
 </section>
 
 <footer>
-  <p>© 2025 OWASP Nakhchivan Chapter. All rights reserved.</p>
+  <p>© Since from 2025 OWASP Nakhchivan Chapter. All rights reserved.</p>
 </footer>
 
 </body>
