@@ -1,0 +1,25 @@
+leaders:
+  - name: Ilkin Javadov
+    email: ilkin.javadov@owasp.org
+    github: ilkinjavadov
+  - name: Aytac Aliyeva
+    email: liyeva@gmail.com
+  - name: Eyyub Panjiyev
+    email: eyyub.panjiyev@gmail.com
+location:
+  country: Azerbaijan
+  country_code: AZ
+  region: Azerbaijan
+  city: Nakhchivan
+  latitude: 39.217497
+  longitude: 45.4069671
+name: OWASP Nakhchivan
+repositories:
+  - name: www-chapter-nakhchivan
+    url: https://github.com/OWASP/www-chapter-nakhchivan
+    description: OWASP Foundation web repository
+tags:
+  - owaspazerbaijan
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-nakhchivan
