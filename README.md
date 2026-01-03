@@ -35,7 +35,7 @@
     <div class="container mx-auto px-4">
       <h3 class="text-3xl font-bold mb-6 text-center">Haqqımızda</h3>
       <p class="text-lg text-gray-700 leading-relaxed text-center max-w-3xl mx-auto">
-        OWASP (Open Web Application Security Project) Nakhchivan bölməsi, yerli inkişaf etdiricilər, tədqiqatçılar və təhlükəsizlik mütəxəssisləri üçün açıq və öyrədici platformadır.
+        OWASP (Open Worldwide Application Security Project) Nakhchivan bölməsi, yerli inkişaf etdiricilər, tədqiqatçılar və təhlükəsizlik mütəxəssisləri üçün açıq və öyrədici platformadır.
         Biz veb tətbiqələrin təhlükəsizliyini artırmaq üçün tədbirlər, seminarlar və açıq layihələr təşkil edirik.
       </p>
     </div>
