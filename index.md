@@ -77,7 +77,7 @@ meetup-group:
   <h2>Next Events</h2>
 <p>
     📢 <strong>Next Event: OWASP Cybersecurity, How AI is used in attacks against web applications at Nakhchivan State University</strong><br><br>
-    🗓️ <strong>Date:</strong> February 26, 2026<br>
+    🗓️ <strong>Date:</strong> February 26, 2027<br>
     📍 <strong>Location:</strong> Nakhchivan State University (NDU) Campus<br>
     🎓 <strong>Audience:</strong> Open to all students of Nakhchivan State University<br><br>
    <img src="assets/images/ndu-logo.jpg" alt="NDU Logo" style="height: 150px; vertical-align: middle; margin-left: 30px;">
